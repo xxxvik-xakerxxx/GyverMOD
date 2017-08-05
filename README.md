@@ -1,7 +1,7 @@
 # Вейп БоксМод GyverMOD
 
 ## Обновления
- 
+   
 ver-1.0 - Скетч переработан, перебраны библиотеки, 2 экрана в одном. Новая система сборки Platformio теперь не нужна громоздкая Arduini IDE.
 ### Схема подключения
 ![GyverMOD 1.0](https://github.com/AlexGyver/GyverMOD/blob/master/scheme_1.2.jpg)
